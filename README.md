@@ -8,11 +8,9 @@ A multi-platform application made for my diploma in my 2. and last year of colle
 - React.js
 - Vite
 - Docker
-- Redis
 - PostgreSQL
 - Tailwind CSS
-- Android Studio ==(Kotlin)==
-- Swift (IOS app)
+- React Native
 
 ## 🎉 Features
 
